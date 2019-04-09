@@ -1,0 +1,14 @@
+npm-debug.log*
+coverage
+node_modules
+.nyc_output
+.npm
+.node_repl_history
+.DS_Store
+*.swp
+*~
+.#*
+.project
+.settings
+*.sublime-project
+*.sublime-workspace

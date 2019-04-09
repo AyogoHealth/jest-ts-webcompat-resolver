@@ -1,0 +1,16 @@
+{
+  "name": "jest-ts-webcompat-resolver",
+  "version": "1.0.0",
+  "description": "A resolver for Jest that handles TypeScript imports using a `.js` extension.",
+  "main": "index.js",
+  "author": "Darryl Pogue <darryl@dpogue.ca>",
+  "license": "MIT",
+  "homepage": "https://github.com/AyogoHealth/jest-ts-webcompat-resolver",
+  "bugs": {
+    "url": "https://github.com/AyogoHealth/jest-ts-webcompat-resolver/issues"
+  },
+  "repository": "github:AyogoHealth/jest-ts-webcompat-resolver",
+  "peerDependencies": {
+    "jest-resolve": "*"
+  }
+}
