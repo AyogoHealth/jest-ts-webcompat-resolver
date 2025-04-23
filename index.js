@@ -44,6 +44,6 @@ module.exports = (request, options) => {
   try {
     return defaultResolver(request, options);
   } catch (e) {
-    return defaultResolver(request.replace(/\.js$/, '.ts'), options);
+    return defaultResolver(request.replace(/\.([cm]{1})?js$/, '.$1ts'), options);
   }
 }
