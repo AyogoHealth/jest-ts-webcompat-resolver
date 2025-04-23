@@ -1,6 +1,6 @@
 {
   "name": "jest-ts-webcompat-resolver",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A resolver for Jest that handles TypeScript imports using a `.js` extension.",
   "main": "index.js",
   "author": "Darryl Pogue <darryl@dpogue.ca>",
